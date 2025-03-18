@@ -34,7 +34,7 @@ Laravel環境構築
 
 
 ## ER図
-![Image](https://github.com/user-attachments/assets/2979e514-1fba-4036-9ed9-01e50b855b80)
+![Image](https://github.com/user-attachments/assets/3201b8fc-4c74-4068-a302-904ac20288f8)
 
 ## URL
 ・開発環境：[http://localhost/](http://localhost/)
